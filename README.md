@@ -21,6 +21,10 @@ A full-stack SaaS-style platform designed to for real-world product environment,
 - Authentication: Supabase Auth
 - Deployment: Vercel
 
+**Team Project (3 developers)**  
+- **João Almeida** - Led the project, defined architecture, coordinated feature implementation, along with Full-stack development
+- **[Rafael](https://github.com/rafaelmsantos28)** - Full-stack feature development and system integration.
+- **[Brendo](https://github.com/brendomota)** - Frontend implementation and UI development.
 
 ---
 

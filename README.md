@@ -5,13 +5,15 @@ Full Stack Developer focused on building scalable web applications
 
 ## 🚀 Featured Project
 
-### iMenuApp.com.br (repo: imenu)
+### iMenuApp.com.br
 
 This project is currently active and has acquired active costumers and users throghout the world.
 A full-stack SaaS-style platform designed to for real-world product environment, including realtime data and transactions, authentication, database integration, and structured API communication.
 
 🔗 iMenu: imenuapp.com.br/mingos-burguer
+
 🔗 iMenu Menu Example (of a real user): imenuapp.com.br/mingos-burguer
+
 📂 Repository: https://github.com/metrix0/imenu
 
 **iMenu Tech Stack**

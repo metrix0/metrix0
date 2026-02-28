@@ -7,7 +7,7 @@ Full Stack Developer focused on building scalable web applications
 
 ### iMenuApp.com.br
 
-This project is currently active and has acquired active costumers and users throghout the world.
+🏆 This project is currently active and has acquired active costumers and users throghout the world. <br>
 A full-stack SaaS-style platform designed to for real-world product environment, including realtime data and transactions, authentication, database integration, and structured API communication.
 
 🔗 iMenu: imenuapp.com.br/mingos-burguer <br>
